@@ -1,0 +1,6 @@
+streamlit
+streamlit-folium
+pandas
+psycopg2-binary
+folium
+streamlit-extras

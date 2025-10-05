@@ -1,9 +1,7 @@
-# Real-Time-Flight-Tracking-Pipeline
+# ✈️ Real-Time-Flight-Tracking-Pipeline
 This project simulates a **real-time flight tracking system** (similar to AirRadar 2024) using a modern data engineering pipeline.   It generates fake flight events, streams them through Kafka, processes with Spark, stores in PostgreSQL, and visualizes with Streamlit.
 
----
 
-# ✈️ Real-Time Flight Tracking Pipeline
 
 I built a project that simulates a **real-time flight tracking system** (like AirRadar 2024) using a modern data engineering pipeline.
 I generated fake flight events, streamed them through Kafka, processed them with Spark, stored them in PostgreSQL, and visualized them using Streamlit.

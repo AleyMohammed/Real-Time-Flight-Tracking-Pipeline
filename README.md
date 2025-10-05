@@ -3,7 +3,7 @@ This project simulates a **real-time flight tracking system** (similar to AirRad
 
 ---
 
-# ✈️ Flight Radar 2024 - Real-Time Flight Tracking Pipeline
+# ✈️ Real-Time Flight Tracking Pipeline
 
 I built a project that simulates a **real-time flight tracking system** (like AirRadar 2024) using a modern data engineering pipeline.
 I generated fake flight events, streamed them through Kafka, processed them with Spark, stored them in PostgreSQL, and visualized them using Streamlit.
